@@ -6,6 +6,7 @@
 - I’m currently exploring: Python, JavaScript, Django, Wagtail, VueJS, React, Docker, Web Development & AI 🔭
 - Fun fact: I've released music on vinyl ⚡
 
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=alessio-livolsi)](https://github.com/anuraghazra/github-readme-stats)
 
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=alessio-livolsi)](https://github.com/ryo-ma/github-profile-trophy)
