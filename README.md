@@ -6,18 +6,6 @@
 - I’m currently exploring: Python, JavaScript, Django, Wagtail, VueJS, React, Docker, Web Development & AI 🔭
 - Fun fact: I've released music on vinyl ⚡
 
-<br/>
-
-<table>
-    <tr>
-        <th>My Email</th>
-    </tr>
-    <tr>
-        <td>
-            <a href="[https://colin-but.medium.com/](https://github.com/alessio-livolsi/contact_me)"><img src="https://www.vectorlogo.zone/logos/medium/medium-ar21.svg"/>📧</a>
-        </td>
-    </tr>
-</table>
 
 ### Contact me:
 
