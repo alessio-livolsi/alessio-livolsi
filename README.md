@@ -8,6 +8,17 @@
 
 <br/>
 
+<table>
+    <tr>
+        <th>My Email</th>
+    </tr>
+    <tr>
+        <td>
+            <a href="[https://colin-but.medium.com/](https://github.com/alessio-livolsi/contact_me)"><img src="https://www.vectorlogo.zone/logos/medium/medium-ar21.svg"/>📧</a>
+        </td>
+    </tr>
+</table>
+
 ### Contact me:
 
 <a href="https://twitter.com/alessio_livolsi"><img src="https://www.vectorlogo.zone/logos/twitter/twitter-icon.svg" width="40" height="40"/></a>
