@@ -8,4 +8,8 @@
 
 
 
+[![trophy](https://github-profile-trophy.vercel.app/?username=alessio-livolsi)](https://github.com/ryo-ma/github-profile-trophy)
+
+
+
 [![GitHub Streak](https://streak-stats.demolab.com/?user=alessio-livolsi)](https://git.io/streak-stats)
