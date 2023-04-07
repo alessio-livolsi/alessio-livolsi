@@ -6,6 +6,14 @@
 - I’m currently exploring: Python, JavaScript, Django, Wagtail, VueJS, React, Docker, Web Development & AI 🔭
 - Fun fact: I've released music on vinyl ⚡
 
+<br/>
+
+### Contact me:
+
+<a href="https://twitter.com/alessio_livolsi"><img src="https://www.vectorlogo.zone/logos/twitter/twitter-icon.svg" width="40" height="40"/></a>
+<a href="https://www.linkedin.com/in/alessio-livolsi/"><img src="https://www.vectorlogo.zone/logos/linkedin/linkedin-icon.svg" width="40" height="40"/></a>
+
+<br/>
 
 ### My GitHub Stats 💫 
 
