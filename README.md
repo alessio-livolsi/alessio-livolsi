@@ -1,6 +1,6 @@
 # Hello world 👋 I'm Alessio Li Volsi 🤖
 
-## Full Stack Software Developer
+## Full Stack Software Developer <img src="https://alessio-livolsi.github.io/assets/img/B:W.jpg" width="40" height="40">
 
 
 - I’m currently exploring: Python, JavaScript, Django, Wagtail, VueJS, React, Docker, Web Development & AI 🔭
